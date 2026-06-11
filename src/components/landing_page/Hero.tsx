@@ -1,6 +1,6 @@
-import React from "react";
+
 import { motion } from "framer-motion";
-import { ArrowRight, MapPin, Package, Car, Zap } from "lucide-react";
+import { ArrowRight, MapPin, Package, Car, } from "lucide-react";
 import heroImage from "../../assets/images/hero.jpg";
 
 const Hero = () => {

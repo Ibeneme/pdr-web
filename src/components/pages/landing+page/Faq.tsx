@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { ChevronDown } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
-const FAQItem = ({ question, answer }) => {
+const FAQItem = ({ question, answer }: any) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (

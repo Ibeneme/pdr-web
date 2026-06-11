@@ -1,12 +1,10 @@
-import React from "react";
+
 import { motion } from "framer-motion";
 import {
   ShieldCheck,
   Zap,
   Globe,
-  Clock,
-  CreditCard,
-  Sparkles,
+  Sparkles,CreditCard
 } from "lucide-react";
 
 export const ImpactSection = () => {
